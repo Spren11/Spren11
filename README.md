@@ -4,7 +4,7 @@
 I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen University. I am passionate about bridging the gap between healthcare and technology through Machine Learning, Deep Learning, and robust Backend architecture. I enjoy proactively identifying problems and shaping them into scalable AI solutions.
 
 -  **Education:** BSc in Artificial Intelligence (Medical Track), Khon Kaen University (GPA: 3.73) 
--  **Currently working on:** Medical AI, Computer Vision (CNNs, GANs), and Retrieval-Augmented Generation (RAG) 
+-  **Currently working on:** Medical AI, Computer Vision , and NLP(RAG) 
 -  **Currently learning:** Advanced Cloud Deployment (AWS), Microservices, and Go 
 -  **Looking for:** A challenging AI / ML / DevOps Internship or Co-op (April 2026 - October 2026)
 -  **How to reach me:** b33rtooo@gmail.com 
