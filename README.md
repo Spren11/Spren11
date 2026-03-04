@@ -1,7 +1,7 @@
 # Hi there, I'm Aekkarach Khampoo (Mhee) 
 
 ##  About Me
-I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen University. ]I am passionate about bridging the gap between healthcare and technology through Machine Learning, Deep Learning, and robust Backend architecture[cite: 4]. [cite_start]I enjoy proactively identifying problems and shaping them into scalable AI solutions.
+I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen University. I am passionate about bridging the gap between healthcare and technology through Machine Learning, Deep Learning, and robust Backend architecture[cite: 4]. [cite_start]I enjoy proactively identifying problems and shaping them into scalable AI solutions.
 
 -  **Education:** BSc in Artificial Intelligence (Medical Track), Khon Kaen University (GPA: 3.73) 
 -  **Currently working on:** Medical AI, Computer Vision (CNNs, GANs), and Retrieval-Augmented Generation (RAG) 
@@ -14,10 +14,10 @@ I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen
 ##  Tech Stack & Tools
 
 ### **AI & Machine Learning**
-`PyTorch` `Scikit-learn` `Computer Vision (CNN, GAN)` `NLP` `Llama-3` `Isolation Forest` `K-Means` 
+`PyTorch` `Scikit-learn` `Computer Vision` `NLP` `Tensorflow` `Pandas` `Numpy`
 
 ### **Backend & Database**
-`Python` `FastAPI` `C++` `SQL` `MongoDB` `PostgreSQL` `Neo4j (GraphDB)` `Qdrant (VectorDB)`
+`Python` `FastAPI` `C++` `SQL` `MongoDB` `PostgreSQL` `Neo4j (GraphDB)` `Qdrant (VectorDB)` `Postman` `Next.js` `React` `Go` `Javascript/Typescript` `HTML/CSS`
 
 ### **DevOps & Architecture**
 `Docker` `Docker Compose` `AWS` `Linux` `Bash` `Git` `Microservices` 
@@ -30,7 +30,7 @@ I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen
 *  <img width="2245" height="3179" alt="DE_G10_Poster" src="https://github.com/user-attachments/assets/6459a8ef-ad06-4793-9ffd-cc66d05fd94c" />
 *  **Chest X-Ray VAP Analysis:** Implemented a GAN to digitally remove endotracheal tubes from lung regions in X-rays, enabling clearer disease assessment and tracking daily lung condition improvements
 * **Full-Stack Alzheimer's Diagnostic Platform:** Architected a containerized microservices environment using Docker Compose (Next.js, FastAPI, MongoDB) and deployed a custom EfficientNet-B0 model via a high-performance RESTful API
-*  **Deep Learning-Based Impacted Teeth Detection: Co-developed an AI-powered web application utilizing YOLOv11 (Pose & Segmentation) for automated keypoint detection, multi-mask segmentation, and angle measurement of impacted teeth in dental X-rays
+*  **Deep Learning-Based Impacted Teeth Detection:**  Co-developed an AI-powered web application utilizing YOLOv11 (Pose & Segmentation) for automated keypoint detection, multi-mask segmentation, and angle measurement of impacted teeth in dental X-rays
 <img width="2245" height="3077" alt="หนมน้าๆ" src="https://github.com/user-attachments/assets/ff4da4dc-e19d-452e-a19e-5f7e9e926e89" />
 
 ---
