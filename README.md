@@ -1,4 +1,4 @@
-<img width="2245" height="3077" alt="หนมน้าๆ" src="https://github.com/user-attachments/assets/66aa4ec7-5631-4a0f-9b70-93b50a5d8da0" /># Hi there, I'm Aekkarach Khampoo (Mhee) 
+# Hi there, I'm Aekkarach Khampoo (Mhee) 
 
 ##  About Me
 I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen University. ]I am passionate about bridging the gap between healthcare and technology through Machine Learning, Deep Learning, and robust Backend architecture[cite: 4]. [cite_start]I enjoy proactively identifying problems and shaping them into scalable AI solutions.
