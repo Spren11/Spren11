@@ -1,4 +1,4 @@
-# Hi there, I'm Aekkarach Khampoo (Mhee) 
+# Hi there, I'm Aekkarach Khampoo 
 
 ##  About Me
 I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen University. I am passionate about bridging the gap between healthcare and technology through Machine Learning, Deep Learning, and robust Backend architecture. I enjoy proactively identifying problems and shaping them into scalable AI solutions.
