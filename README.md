@@ -1,4 +1,4 @@
-# Hi there, I'm Aekkarach Khampoo (Mhee) 
+<img width="2245" height="3077" alt="หนมน้าๆ" src="https://github.com/user-attachments/assets/66aa4ec7-5631-4a0f-9b70-93b50a5d8da0" /># Hi there, I'm Aekkarach Khampoo (Mhee) 
 
 ##  About Me
 I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen University. ]I am passionate about bridging the gap between healthcare and technology through Machine Learning, Deep Learning, and robust Backend architecture[cite: 4]. [cite_start]I enjoy proactively identifying problems and shaping them into scalable AI solutions.
@@ -24,15 +24,17 @@ I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen
 
 ---
 
-## 🔬 Highlighted Projects
+##  Highlighted Projects
 
 *  **SpectroAttenCNN-FusionX (Hackathon 2nd Runner-Up):** Lead AI Developer for a hybrid deep learning model (CNN + Attention) designed for early dementia and Alzheimer's disease detection
+*  <img width="2245" height="3179" alt="DE_G10_Poster" src="https://github.com/user-attachments/assets/6459a8ef-ad06-4793-9ffd-cc66d05fd94c" />
 *  **Chest X-Ray VAP Analysis:** Implemented a GAN to digitally remove endotracheal tubes from lung regions in X-rays, enabling clearer disease assessment and tracking daily lung condition improvements
 * **Full-Stack Alzheimer's Diagnostic Platform:** Architected a containerized microservices environment using Docker Compose (Next.js, FastAPI, MongoDB) and deployed a custom EfficientNet-B0 model via a high-performance RESTful API
-*  **Financial GraphRAG:** Engineered an automated data ingestion NLP pipeline using Python, Llama-3, Neo4j, and Qdrant to extract complex relationships and structured entities from financial data
+*  **Deep Learning-Based Impacted Teeth Detection: Co-developed an AI-powered web application utilizing YOLOv11 (Pose & Segmentation) for automated keypoint detection, multi-mask segmentation, and angle measurement of impacted teeth in dental X-rays
+<img width="2245" height="3077" alt="หนมน้าๆ" src="https://github.com/user-attachments/assets/ff4da4dc-e19d-452e-a19e-5f7e9e926e89" />
 
 ---
 
-##  GitHub Stats
-![Beer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spren11&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spren11&layout=compact&theme=radium)
+
+
+
