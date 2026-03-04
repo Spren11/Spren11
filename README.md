@@ -32,8 +32,8 @@ I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen
   </a>
 *  **Chest X-Ray VAP Analysis:** Implemented a GAN to digitally remove endotracheal tubes from lung regions in X-rays, enabling clearer disease assessment and tracking daily lung condition improvements
 *  **Full-Stack Alzheimer's Diagnostic Platform:** Architected a containerized microservices environment using Docker Compose (Next.js, FastAPI, MongoDB) and deployed a custom EfficientNet-B0 model via a high-performance RESTful API
-*  **Deep Learning-Based Impacted Teeth Detection:**  Co-developed an AI-powered web application utilizing YOLOv11 (Pose & Segmentation) for automated keypoint detection, multi-mask segmentation, and angle measurement of impacted teeth in dental X-rays
-* <a href="https://github.com/user-attachments/assets/ff4da4dc-e19d-452e-a19e-5f7e9e926e89" target="_blank"> <br>
+*  **Deep Learning-Based Impacted Teeth Detection:**  Co-developed an AI-powered web application utilizing YOLOv11 (Pose & Segmentation) for automated keypoint detection, multi-mask segmentation, and angle measurement of impacted teeth in dental X-rays <br>
+* <a href="https://github.com/user-attachments/assets/ff4da4dc-e19d-452e-a19e-5f7e9e926e89" target="_blank">
     <img width="2245", height="3077" alt="Impacted Teeth Detection Poster" src="https://github.com/user-attachments/assets/ff4da4dc-e19d-452e-a19e-5f7e9e926e89" style="border-radius: 8px; margin-top: 10px; margin-bottom: 15px;" />
   </a>
 ---
