@@ -36,8 +36,13 @@ I am a 3rd-year **Artificial Intelligence student (Medical Track)** at Khon Kaen
 * <a href="https://github.com/user-attachments/assets/ff4da4dc-e19d-452e-a19e-5f7e9e926e89" target="_blank">
     <img width="2245", height="3077" alt="Impacted Teeth Detection Poster" src="https://github.com/user-attachments/assets/ff4da4dc-e19d-452e-a19e-5f7e9e926e89" style="border-radius: 8px; margin-top: 10px; margin-bottom: 15px;" />
   </a>
+* **Anomaly Detection and Clustering of Patient-Ventilator Asynchrony (1st Place Winner):** for developing an AI-driven clinical tool to detect Patient-Ventilator Asynchronies (PVA) using Unsupervised Machine Learning (Isolation Forest and K-Means).
+Processed complex 3D waveform data (Pressure, Flow, Volume) to cluster respiratory anomalies such as Ineffective Triggering and Severe Obstruction.
+Designed a Smart ICU Dashboard to visualize the Asynchrony Index (AI%) and patient risk levels, aiding healthcare professionals in proactive care and rapid decision-making.
+* <a href="https://github.com/user-attachments/assets/815fd69f-7a3f-41e0-821a-a4e3972aafcb" target="_blank">
+    <img width="2245", height="3077" alt="D-DAY AI Poster" src="https://github.com/user-attachments/assets/815fd69f-7a3f-41e0-821a-a4e3972aafcb" style="border-radius: 8px; margin-top: 10px; margin-bottom: 15px;" />
+  </a>
+
 ---
-
-
 
 
